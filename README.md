@@ -4,9 +4,9 @@ o Projeto foi feito com base numa aula no canal da [Rocketseat](https://www.rock
 
 ## Getting Started
 
-1: Copie o arquivo .env.local.example e renomeie o mesmo para .env.local;
+1: Copie o arquivo `.env.local.example` e renomeie o mesmo para `.env.local`;
 
-2: Adicione sua API_KEY da API da OpenAI na variavél `OPENAI_API_KEY` no arquivo .env.local;
+2: Adicione sua API_KEY da API da OpenAI na variavél `OPENAI_API_KEY` no arquivo `.env.local`;
 
 3: Rode o seguinto comendo para iniciar a aplicação:
 ```bash
